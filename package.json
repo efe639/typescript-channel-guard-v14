@@ -1,0 +1,21 @@
+{
+  "name": "channel-guard-ts",
+  "version": "1.0.0",
+  "description": "Witcher Channel typescript guard",
+  "main": "witcher.ts",
+  "scripts": {
+    "test": "nodemon witcher.ts"
+  },
+  "keywords": [
+    "witcher",
+    "typescript",
+    "channel",
+    "guard"
+  ],
+  "author": "Witcher",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "mongoose": "^6.4.5"
+  }
+}
